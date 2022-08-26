@@ -20,7 +20,7 @@
 41,2018,Americas,0.67,0.5,0.33
 46,2019,Americas,0.83,0.83,0.17
 51,2020,Americas,0.71,0.86,0.14
-57,2021,Americas,0.67,0.8,0.6
+57,2021,Americas,0.67,0.8,0.53
 2,2011,Eastern Mediterranean,0.0,1.0,0.0
 8,2012,Eastern Mediterranean,0.0,1.0,0.0
 14,2013,Eastern Mediterranean,0.33,1.0,0.0
@@ -55,7 +55,7 @@
 17,2013,Western Pacific,0.8,0.8,0.2
 23,2014,Western Pacific,0.67,0.67,0.33
 29,2015,Western Pacific,1.0,1.0,0.5
-34,2016,Western Pacific,1.0,0.8,0.8
+34,2016,Western Pacific,1.0,0.8,0.6
 39,2017,Western Pacific,0.75,0.75,0.25
 44,2018,Western Pacific,1.0,1.0,0.5
 49,2019,Western Pacific,1.0,1.0,0.67
