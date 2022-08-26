@@ -1,7 +1,7 @@
 ################################################
 ### Counts plots for for monthly split data ####
 ########## by Olga Gasparyan ###################
-#############  March 05, 2022 ##################
+#############  April 03, 2022 ##################
 
 #clean environment
 rm(list = ls())
@@ -14,8 +14,8 @@ require(ggplot2)
 setwd("YOUR DIR HERE")
 
 #load the files from a working directory
-data=read.csv("all_cc_tweets_months.csv")
-data_health=read.csv("all_health_tweets_monthly.txt")
+data=read.csv("all_cc_tweets_months_deid.csv")
+data_health=read.csv("all_health_tweets_monthly_deid.txt")
 
 
 #create a new data set with counts per months for cc tweets
